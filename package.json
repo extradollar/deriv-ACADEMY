@@ -1,0 +1,11 @@
+{
+  "name": "deriv-academy",
+  "version": "1.0.0",
+  "description": "A project structure for deriv-ACADEMY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "extradollar",
+  "license": "ISC"
+}
